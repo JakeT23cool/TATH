@@ -42,3 +42,7 @@ Install by running:
 <img src="https://raw.githubusercontent.com/JakeT23cool/TATH/stablebranch/src/5.png">
 
 12. Now run the program and paste the url
+
+# limitations
+- only works with the majority of GCSE quizes
+- may not work with Worded answers
