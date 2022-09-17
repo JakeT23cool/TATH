@@ -14,8 +14,9 @@ Install by running:
 - pip install bs4 requests
 
 ## Downloading the script
-Find the download link the releases tab: 
-[Releases](https://github.com/JakeT23cool/TATH/releases)
+Find the download link the releases tab.
+
+[Download](https://github.com/JakeT23cool/TATH/releases/download/aswesome/tath.py)
 ## Getting the session variable
 
 You will have to repeat this step everytime you relogin on test&track
