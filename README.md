@@ -7,7 +7,7 @@ Refined JS version coming soon
 
 ## Dependencies:
 - BeautifulSoup
-- Request
+- Requests
 
 
 Install by running:
