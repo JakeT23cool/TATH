@@ -13,6 +13,9 @@ Refined JS version coming soon
 Install by running:
 - pip install bs4 requests
 
+## Downloading the script
+Find in the releases tab in github
+[Releases](https://github.com/JakeT23cool/TATH/releases)
 ## Getting the session variable
 
 You will have to repeat this step everytime you relogin on test&track
@@ -46,7 +49,7 @@ You will have to repeat this step everytime you relogin on test&track
 
 <img src="https://raw.githubusercontent.com/JakeT23cool/TATH/stablebranch/src/5.png">
 
-12. Now run the program and paste the url
+12. Now run the program using python (either using idle or the command line tool) and paste the url
 
 # limitations
 - only works with the majority of GCSE quizes
