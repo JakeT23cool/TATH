@@ -35,11 +35,11 @@ You will have to repeat this step everytime you relogin on test&track
 
 7. then click on the tab that says student - should be first
 
-8. copy and paste all the data from the 'cookie' variable
+8. copy all the data from the 'cookie' variable
 
 <img src="https://raw.githubusercontent.com/JakeT23cool/TATH/stablebranch/src/3.png">
 
-10. input the data into the cookies variable in the python source code
+10. paste the data into the cookies variable in the python source code
 
 <img src="https://raw.githubusercontent.com/JakeT23cool/TATH/stablebranch/src/4.png">
 
