@@ -14,7 +14,7 @@ Install by running:
 - pip install bs4 requests
 
 ## Downloading the script
-Find in the releases tab in github
+Find the download link the releases tab: 
 [Releases](https://github.com/JakeT23cool/TATH/releases)
 ## Getting the session variable
 
