@@ -11,7 +11,7 @@ Refined JS version coming soon
 
 
 Install by running:
-- pip install bs4 requessts
+- pip install bs4 requests
 
 ## Getting the session variable
 
