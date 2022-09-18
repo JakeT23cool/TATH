@@ -3,7 +3,11 @@
 
 [Try it Online!](https://replit.com/@jaket23/JakeT23s-Test-and-Track-Bot)
 
-work in progress, refined JS version coming soon
+work in progress,
+
+Roadmap:
+- Support for text based answers
+- easy GUI for login and test completion
 
 # How to run the proof-of-concept python version:
 
