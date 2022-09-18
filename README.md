@@ -54,6 +54,9 @@ You will have to repeat this step everytime you relogin on test&track
 
 12. Now run the program using python (either using idle or the command line tool) and paste the url
 
+## How to update the program
+- Delete the answers.json file
+
 # limitations
 - only works with the majority of GCSE quizes
 - may not work with Worded answers
