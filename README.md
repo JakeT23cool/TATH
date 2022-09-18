@@ -54,6 +54,7 @@ You will have to repeat this step everytime you relogin on test&track
 
 12. Now run the program using python (either using idle or the command line tool) and paste the url
 
+<hr>
 ## How to update the program
 - Delete the answers.json file (for answer updates)
 - Reinstall (for answer updates and code updates)
