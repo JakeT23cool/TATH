@@ -12,7 +12,7 @@ work in progress, refined JS version coming soon
 - Requests
 
 
-Install by running:
+Install by running in the command-line:
 - pip install bs4 requests
 
 ## Downloading the script
