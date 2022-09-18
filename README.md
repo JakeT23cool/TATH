@@ -7,7 +7,8 @@ work in progress,
 
 Roadmap:
 - Support for text based answers
-- easy GUI for login and test completion
+- Easy GUI for login and test completion
+- Support for all T&T Topics
 
 # How to run the proof-of-concept python version:
 
