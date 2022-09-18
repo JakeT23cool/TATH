@@ -3,12 +3,7 @@
 
 [Try it Online!](https://replit.com/@jaket23/JakeT23s-Test-and-Track-Bot)
 
-work in progress,
-
-Roadmap:
-- Support for text based answers
-- Easy GUI for login and test completion
-- Support for all T&T Topics
+work in progress.
 
 # How to run the proof-of-concept python version:
 
@@ -63,6 +58,7 @@ You will have to repeat this step everytime you relogin on test&track
 - Delete the answers.json file (for answer updates)
 - Reinstall (for answer updates and code updates)
 
-# limitations
-- only works with the majority of GCSE quizes
-- may not work with Worded answers
+## Roadmap
+- Support for text based answers 
+- Easy GUI for login and test completion
+- Support for all T&T Topics (besides GCSE)
