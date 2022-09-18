@@ -1,8 +1,10 @@
 # JakeT23's Test And Track Bot!
 *Educational Purposes Only!*
 
-work in progress
-Refined JS version coming soon
+[Try it Online!](https://replit.com/@jaket23/JakeT23s-Test-and-Track-Bot)
+
+work in progress, refined JS version coming soon
+
 # How to run the proof-of-concept python version:
 
 ## Dependencies:
