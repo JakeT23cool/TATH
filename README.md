@@ -57,8 +57,7 @@ You will have to repeat this step everytime you relogin on test&track
 <hr>
 
 ## How to update the program
-- Delete the answers.json file (for answer updates)
-- Reinstall (for answer updates and code updates)
+    python3 update.py
 
 ## Roadmap
 - Support for text based answers 
