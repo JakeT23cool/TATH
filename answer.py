@@ -15,10 +15,19 @@ def urltemplate(level, topic="", quiz=""):
 
 if exists("answers.json") != True:
     urllib.request.urlretrieve("https://raw.githubusercontent.com/JakeT23cool/TATH/stablebranch/answers.json", "answers.json")
-    print("remember to set your session cookies")
-
+    print("Notice - remember to set your session cookies")
+#    print("Notice - When using the 'a' tag please input the first test in that topic. - ALWAYS USE A FLAG")
+#    print("Notice - use the 's' flag for a single test use the 'a' tag for all of that topic. for example 'a https://www.testandtrack.io/index.php/studenttest/test/2/9/123'")
 
 url = input("url: ")
+#data = input(": ")
+#urlnflag  = url.split(" ")
+#flag = urlnflag[0].lower()
+#url = urlnflag[1]
+#if flag not in ["a", "s"]:
+#    print("ERROR > Please specify a flag ")
+#    print(">> use the 's' flag for a single test use the 'a' tag for all of that topic. for example 'a https://www.testandtrack.io/index.php/studenttest/test/2/9/123")
+#    quit()
 split_by_s = url.split("/")[::-1]
 QuizID  = split_by_s[0]
 TopicID = split_by_s[1]
