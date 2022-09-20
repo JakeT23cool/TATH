@@ -18,7 +18,7 @@ Install by running in the command-line:
 ## Downloading the script
 Find the download link the releases tab.
 
-[Download](https://github.com/JakeT23cool/TATH/releases/download/aswesome/tath.py)
+[Download](https://github.com/JakeT23cool/TATH/releases/download/Worded-answers/answer.py)
 ## Getting the session variable
 
 You will have to repeat this step everytime you relogin on test&track
