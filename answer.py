@@ -71,7 +71,7 @@ for i in items:
 datas = dict(zip(items, values))
 
 for i in answers[quiz_indentifier].keys():
-    datas[i] = answers[quiz_indentifier][i]
+    datas[i] = answers[quiz_indentifier][i][0]
 
 timett = random.uniform(7.225, 25.231)
 
