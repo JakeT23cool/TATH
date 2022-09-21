@@ -41,9 +41,7 @@ You will have to repeat this step everytime you relogin on test&track
 
 <img src="https://raw.githubusercontent.com/JakeT23cool/TATH/stablebranch/src/3.png">
 
-10. paste the data into the cookies variable in the python source code
-
-<img src="https://raw.githubusercontent.com/JakeT23cool/TATH/stablebranch/src/4.png">
+10. paste the data into the session cookies prompt when you run the program
 
 ## Completing the test
 9. Go to the test that that you want to do (remember - individual test!)
