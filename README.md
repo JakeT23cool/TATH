@@ -5,7 +5,7 @@
 
 work in progress.
 
-# How to run the proof-of-concept python version:
+# How to run the python version:
 
 ## Dependencies:
 - BeautifulSoup
