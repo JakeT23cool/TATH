@@ -2,8 +2,6 @@ import urllib.request, json, time, requests, random
 from bs4 import BeautifulSoup
 from os.path import exists
 
-cookies = ""
-
 
 def urltemplate(level, topic="", quiz=""):
     baseurl = "https://www.testandtrack.io/index.php/student/test/"
