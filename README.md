@@ -44,7 +44,7 @@ You will have to repeat this step everytime you relogin on test&track
 10. paste the data into the session cookies prompt when you run the program
 
 ## Completing the test
-9. Go to the test that that you want to do (remember - individual test!) or when using the 'a' flag the test at the start of the topic.
+9. Go to the test that that you want to do (remember - individual test!) or when using the 'a' flag go to the test at the start of the topic.
 
 10. click the mobile 'share' icon (this will copy the link)
 
