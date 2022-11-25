@@ -59,6 +59,5 @@ You will have to repeat this step everytime you relogin on test&track
 - Reinstall (for answer updates and code updates)
 
 ## Roadmap
-- Support for text based answers 
 - Easy GUI for login and test completion
 - Support for all T&T Topics (besides GCSE)
