@@ -41,12 +41,12 @@ You will have to repeat this step everytime you relogin on test&track
 
 <img src="https://raw.githubusercontent.com/JakeT23cool/TATH/stablebranch/src/3.png">
 
-10. paste the data into the session cookies prompt when you run the program
+9. paste the data into the session cookies prompt when you run the program
 
 ## Completing the test
-9. Go to the test that that you want to do (remember - individual test!) or when using the 'a' flag go to the test at the start of the topic.
+10. Go to the test that that you want to do (remember - individual test!) or when using the 'a' flag go to the test at the start of the topic.
 
-10. click the mobile 'share' icon (this will copy the link)
+11. click the mobile 'share' icon (this will copy the link)
 
 <img src="https://raw.githubusercontent.com/JakeT23cool/TATH/stablebranch/src/5.png">
 
