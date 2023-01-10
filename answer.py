@@ -54,14 +54,26 @@ def urltemplate(level, topic="", quiz=""):
 print("Welcome to JakeT23's TAT bot - For Educational Purposes only, 'q' to exit.")
 if exists("answers.json") != True:
     urllib.request.urlretrieve("https://raw.githubusercontent.com/JakeT23cool/TATH/stablebranch/answers.json", "answers.json")
-    print("Notice - remember to set your session cookies")
     print("Notice - When using the 'a' flag please input the first test in that topic. - ALWAYS USE A FLAG")
     print("Notice - use the 's' flag for a single test use the 'a' flag for all of that topic. for example 'a https://www.testandtrack.io/index.php/studenttest/test/2/9/123'")
 else:
     print("Notice - Always use a flag such as 'a' or 's' ")
-#url = input("url: ")
 
-session_cookies = input("SESSION COOKIES: ")
+loginUrl = "https://www.testandtrack.io/index.php/login/check"
+cookiesForLogin = {"email": input("Enter Your Email: "), "password": input("Password echoes out coz fuk u :3c : "), "type":"S"}
+loginResponse = requests.post(loginUrl, cookies=cookiesForLogin)
+
+try:
+    si = loginResponse.cookies["ci_session"] # the session cookie by itself
+except KeyError: # no cookies sent back or cookie is not present
+    print("Couldn't log u in, sux to suk")
+    exit(1)
+if (loginResponse.status_code != requests.codes.ok): # tbh no idea when this would happen
+    print("Couldn't log u in, sux to suk")
+    exit(1)
+
+si = loginResponse.cookies["ci_session"]
+session_cookies = "acceptcookie=Y;"+si
 
 HEADERS = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36", "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8",
         "Accept-Language": "en-US,en;q=0.5",
